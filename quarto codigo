@@ -1,0 +1,10 @@
+void main () {
+  int maquiagem = 35;
+  int batom= 15;
+ if (maquiagem>batom)
+ { 
+   print("a maquiagem é mais cara que o batom!");
+ } else
+ {  print("batom é mais barato que a maquiagem");
+  }
+ }
